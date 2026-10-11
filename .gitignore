@@ -1,0 +1,21 @@
+# Keil generated output
+/Objects/
+/Listings/
+/DebugConfig/
+
+# Per-user Keil configuration
+*.uvguix*
+*.uvoptx
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.bak
+*.tmp
+
+# Unused upstream FreeRTOS kernel mirror
+/FreeRTOS/FreeRTOS-Kernel/
